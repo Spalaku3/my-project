@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;200;300;400;500;600;700;800;900;&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+header{
+    z-index:10001 !important;
+}
+
+.text-brown-700 {
+    color: #8B4513; /* Adjust the hex code to the desired shade of brown */
+}
+img {
+    background-color: transparent;
+}
